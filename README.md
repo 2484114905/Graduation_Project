@@ -4,13 +4,14 @@
 2，利用openCV将检测出来的目标截取出来；
 3，利用DeepLab对截取出来的目标图片进行语义分割。
 
-项目的用户界面是基于Qt for python开发的，官方文档https://doc.qt.io/qtforpython-5/
+项目的用户界面是基于Qt for python开发的，官方文档https://doc.qt.io/qtforpython-5/。
 项目环境使用的是python虚拟环境，主要的环境如下：
 python3.6
 opencv-python==4
 tensorflow==1.15
 pymysql
 pyside2
+
 可使用pycharm或conda(python包管理器)创建，具体步骤查阅anaconda（内含conda）文档和conda文档
 https://docs.anaconda.com/anaconda/
 https://docs.conda.io/en/latest/

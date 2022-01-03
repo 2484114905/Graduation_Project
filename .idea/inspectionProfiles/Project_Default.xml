@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Main.main.ui_mainwindow" />
+          <option value="source.datavisualize.datavisualize3.main_window.qApp" />
+          <option value="main_window.qApp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
